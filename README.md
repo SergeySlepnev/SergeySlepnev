@@ -47,6 +47,7 @@
 ![Thymeleaf](https://img.shields.io/badge/thymeleaf-6DA55F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-647192?style=for-the-badge&logo=Liquibase&logoColor=white)
+![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=idea&logoColor=white)
 
 </div>
 
