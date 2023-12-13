@@ -46,17 +46,13 @@
 ![Gradle](https://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=gradle&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/thymeleaf-6DA55F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-647192?style=for-the-badge&logo=Liquibase&logoColor=white)
 
 </div>
 
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sergey-slepnev&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-slepnev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
