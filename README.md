@@ -48,6 +48,7 @@
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-647192?style=for-the-badge&logo=Liquibase&logoColor=white)
 ![IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=idea&logoColor=white)
+![H2](https://img.shields.io/badge/H2-898879?style=for-the-badge&logo=h2&logoColor=white)
 
 </div>
 
